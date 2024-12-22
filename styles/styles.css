@@ -1,0 +1,41 @@
+.container {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  color: #4CAF50;
+  margin-bottom: 20px;
+}
+
+.connect-btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.connect-btn:hover {
+  background-color: #45a049;
+}
+
+.wallet-info {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.wallet-info p {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.error {
+  color: red;
+  margin-top: 20px;
+}
