@@ -21,6 +21,7 @@ Follow these steps to test the application:
 If you haven't cloned the project repository, run:
 
 git clone https://github.com/johnhane123/INTERN-FRONTEND-WEB3-SUBMISSION.git
+
 cd INTERN-FRONTEND-WEB3-SUBMISSION
 
 2. Install dependencies
