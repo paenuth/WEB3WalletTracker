@@ -22,7 +22,7 @@ If you haven't cloned the project repository, run:
 
 git clone https://github.com/paenuth/WEB3WalletTracker.git
 
-cd INTERN-FRONTEND-WEB3-SUBMISSION
+cd WEB3WalletTracker
 
 2. Install dependencies
 Make sure you're in the project directory and install the required dependencies:
