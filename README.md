@@ -20,7 +20,7 @@ Follow these steps to test the application:
 1. Clone the repository
 If you haven't cloned the project repository, run:
 
-git clone https://github.com/johnhane123/INTERN-FRONTEND-WEB3-SUBMISSION.git
+git clone https://github.com/paenuth/WEB3WalletTracker.git
 
 cd INTERN-FRONTEND-WEB3-SUBMISSION
 
